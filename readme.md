@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MadlenReiner/MLSummerSchoolVienna2022/main?urlpath=%2Fvoila%2Frender%2Fwebapp.ipynb)
+
 # Machine Learning for Materials Hard and Soft
 
 **ESI-DCAFM-TACO-VDSP Summer School** \
